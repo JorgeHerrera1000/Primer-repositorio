@@ -1,0 +1,50 @@
+*{background-color: grey;}
+
+
+
+.title{color: black;text-align: center; font-style: italic;}
+
+
+
+.container{width:auto;
+    height:300px; 
+    background-color: teal;
+    border: green;
+    border-style: dotted;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-evenly; 
+    padding: 10px;
+}
+
+.container2{width:auto;
+    height: 300px; 
+    background-color: orangered
+    ;border: green;
+    border-style: dotted;
+    margin-top: 5px;
+    display: flex;
+    justify-content:space-evenly;
+    padding: 10px;
+    align-items: center;
+}
+
+.container3{width:auto;
+    height: 300px; 
+    background-color: gold;
+    border: green;border-style:dotted;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    ;
+}
+
+.uwu{background-color:goldenrod;
+text-align: center; 
+font-style: initial;
+font-size: xx-large;
+margin-top: 5px;}
+
+
+
